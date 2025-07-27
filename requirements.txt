@@ -1,0 +1,20 @@
+# 데이터 수집 및 처리
+ccxt==4.4.96
+pandas==2.3.1
+numpy==2.3.2
+
+# 기술적 분석
+TA-Lib==0.6.4
+
+# 웹 인터페이스
+streamlit==1.29.0
+plotly==6.2.00
+
+# 머신러닝 및 패턴 매칭
+dtaidistance==2.3.13
+scikit-learn==1.7.1
+
+# 기타 유틸리티
+python-dateutil==2.9.0.post0
+pytz==2025.2
+tqdm==4.67.1
